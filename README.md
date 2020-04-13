@@ -1,0 +1,2 @@
+#jd_comment_spider.py
+爬取某东商品页评价数据并生成词云
